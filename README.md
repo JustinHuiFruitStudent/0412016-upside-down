@@ -15,4 +15,4 @@
 
 # :mahjong:
 
-![NKFUST](nkfust.jpg"第一科大")
+![NKFUST](nkfust.jpg "第一科大")
